@@ -9,7 +9,8 @@
         "terminal.integrated.shell.linux": "/bin/bash"
       },
       "extensions": [
-        "Vue.volar"
+        "Vue.volar",
+        "bradlc.vscode-tailwindcss"
       ]
     }
   }
