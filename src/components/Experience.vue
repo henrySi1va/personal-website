@@ -15,7 +15,9 @@ defineProps(
         <h3 class="text-2xl font-bold text-white mb-1">{{ experience.title }}</h3>
       </div>
       <div class="text-md text-gray-400 mb-2">{{ experience.company }}, {{ experience.duration }}</div>
-      <p>{{ experience.description }}</p>
+      <ul class="list-disc list-inside text-white mt-2">
+        <li v-for="(item, index) in experience.description" :key="index">{{ item }}</li>
+      </ul>
       <div v-if="experience.links && experience.links.length" class="flex gap-3 mt-2">
         <a
           v-for="(link, idx) in experience.links"
