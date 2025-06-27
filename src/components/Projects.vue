@@ -38,6 +38,15 @@ const projects = [
     links: [
         'https://github.com/Lazloian/DogWifi']
   },
+  {
+    title: 'Robotics Curriculum',
+    description: 'I made a 10-week robotics curriculum for junior high students to introduce them to the basics of robotics and programming using the Lego Mindstorms platform. The curriculum included slides for each lesson including small activities to teach concepts. 4 group competitions had teams apply lesson concepts to a game.',
+    date: 'Summer 2019',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['Effective Communication', 'Teaching', 'Game Design', 'Powerpoint'],
+    links: [
+        'https://github.com/Lazloian/DogWifi']
+  },
 ]
 </script>
 
