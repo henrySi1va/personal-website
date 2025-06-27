@@ -15,6 +15,12 @@ defineProps(
     <div class="text-md text-gray-400 mb-2">{{ project.date }}</div>
     <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" />
     <p>{{ project.description }}</p>
+    <div v-if="project.skills" class="text-gray-400 italic gap-3 mt-2">
+      Skills: 
+      <span v-for="(skill, idx) in project.skills"
+            :key="idx">{{ skill }}<span v-if="idx < project.skills.length - 1">, </span>
+      </span>
+    </div>
     <div v-if="project.links && project.links.length" class="flex gap-3 mt-2">
       <a
         v-for="(link, idx) in project.links"
