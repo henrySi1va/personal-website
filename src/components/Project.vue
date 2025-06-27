@@ -12,6 +12,7 @@ defineProps(
 <div class="flex flex-col md:flex-row items-center gap-6">
     <div>
     <h3 class="text-2xl font-bold text-white mb-2">{{ project.title }}</h3>
+    <div class="text-md text-gray-400 mb-2">{{ project.date }}</div>
     <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" />
     <p>{{ project.description }}</p>
     <div v-if="project.links && project.links.length" class="flex gap-3 mt-2">
