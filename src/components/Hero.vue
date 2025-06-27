@@ -3,15 +3,15 @@ import me from '../assets/me.jpg';
 </script>
 
 <template>
-  <section class="flex flex-col md:flex-row items-center md:items-start gap-8 max-w-6xl mx-auto py-12">
+  <section class="flex flex-col md:flex-row items-center md:justify-start gap-8 max-w-6xl mx-auto py-12">
     <!-- Photo -->
-    <img :src="me" alt="Your photo" class="w-48 h-48 rounded-full object-cover shadow-lg" />
+    <img :src="me" alt="Your photo" class="w-56 h-56 rounded-full object-cover shadow-lg" />
 
     <!-- Name and Bio -->
-    <div class="flex-1">
+    <div class="flex-1 flex flex-col justify-center h-56"> <!-- Set h-56 to match image height -->
       <h1 class="text-4xl sm:text-5xl font-bold text-white mb-4">Henry Silva</h1>
       <p class="text-lg mb-6 max-w-xl">
-        Just a guy.
+        This is my bio.
       </p>
 
       <!-- Social Links -->
