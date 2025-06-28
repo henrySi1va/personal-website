@@ -5,7 +5,7 @@ defineProps(
         type: Object,
         },
     }
-)
+);
 </script>
 
 <template>
@@ -13,7 +13,7 @@ defineProps(
     <div>
     <h3 class="text-2xl font-bold text-white mb-2">{{ project.title }}</h3>
     <div class="text-md text-gray-400 mb-2">{{ project.date }}</div>
-    <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" />
+<!--    <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" /> -->
     <p>{{ project.description }}</p>
     <div v-if="project.skills" class="text-gray-400 italic gap-3 mt-2">
       Skills: 
