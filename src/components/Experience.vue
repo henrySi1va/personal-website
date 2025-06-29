@@ -14,7 +14,7 @@ defineProps(
       <div class="flex items-baseline gap-3">
         <h3 class="text-2xl font-bold text-white mb-1">{{ experience.title }}</h3>
       </div>
-      <div class="text-md text-gray-400 mb-2">{{ experience.company }}, {{ experience.duration }}</div>
+      <div class="text-md text-neutral-400 mb-2">{{ experience.company }}, {{ experience.duration }}</div>
       <ul class="list-disc list-inside text-white mt-2">
         <li v-for="(item, index) in experience.description" :key="index">{{ item }}</li>
       </ul>
@@ -25,7 +25,7 @@ defineProps(
           :href="link"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-white hover:text-gray-400"
+          class="text-white hover:text-neutral-400"
         >
           <span v-if="link.includes('github.com')" aria-label="GitHub">
             <!-- GitHub SVG Icon -->

@@ -12,10 +12,10 @@ defineProps(
 <div class="flex flex-col md:flex-row items-center gap-6">
     <div>
     <h3 class="text-2xl font-bold text-white mb-2">{{ project.title }}</h3>
-    <div class="text-md text-gray-400 mb-2">{{ project.date }}</div>
+    <div class="text-md text-neutral-400 mb-2">{{ project.date }}</div>
 <!--    <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" /> -->
-    <p>{{ project.description }}</p>
-    <div v-if="project.skills" class="text-gray-400 italic gap-3 mt-2">
+    <p class="text-white">{{ project.description }}</p>
+    <div v-if="project.skills" class="text-neutral-400 italic gap-3 mt-2">
       Skills: 
       <span v-for="(skill, idx) in project.skills"
             :key="idx">{{ skill }}<span v-if="idx < project.skills.length - 1">, </span>
@@ -28,7 +28,7 @@ defineProps(
         :href="link"
         target="_blank"
         rel="noopener noreferrer"
-        class="text-white hover:text-gray-400"
+        class="text-white hover:text-neutral-400"
       >
         <span v-if="link.includes('github.com')" aria-label="GitHub">
           <!-- GitHub SVG Icon -->

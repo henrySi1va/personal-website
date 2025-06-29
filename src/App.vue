@@ -5,7 +5,7 @@ import Projects from '@/components/Projects.vue';
 </script>
 
 <template>
-<body class="p-4 sm:p-10">
+<body class="p-4 sm:p-10 bg-neutral-800">
   <Hero />
   <Experiences />
   <Projects />
