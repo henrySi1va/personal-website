@@ -47,6 +47,52 @@ const projects = [
     links: [
         'https://github.com/Lazloian/DogWifi']
   },
+  {
+    title: 'This Website',
+    description: 'I wanted to take my first steps into modern web development and give my personal website a redo since it had been a while since its last update. This website uses Vue and Tailwind CSS.',
+    date: 'Summer 2025',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['Vue', 'Tailwind CSS', 'JavaScript'],
+    links: [
+        'https://henrysivla.xyz',
+        'https://github.com/henrySi1va/personal-website']
+  },
+  {
+    title: 'Simple Video Game: Project Isaac',
+    description: 'A binding of Isaac inspired rouge-like written in Java. I would only consider it a prototype, but it features randomly generated maps, several enemy types, and a couple boss fights.',
+    date: 'Spring 2019',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['Java', 'Game Design', 'Procedural Generation'],
+    links: [
+        'https://github.com/Lazloian/ProjectIsaac']
+  },
+  {
+    title: 'Game Utility: Auto Background Changer',
+    description: 'Back in highschool, I was a fan of the rythem game osu!. The only problem was that I was certainly not a fan of the many anime-themed backgrounds used in the game. It was so bad that I made a utility to update the backgrounds with ones of my choosing.',
+    date: 'Spring 2019',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['C#', 'Windows Forms', 'Windows Utilities'],
+    links: [
+        'https://github.com/Lazloian/OsuBackgroundChanger']
+  },
+  {
+    title: 'Team Sign-In App',
+    description: 'My high school robotics team needed to track student attendance to determine if members met the requirements to go with the team for competitions. I made a simple windows form that allowed students to sign in using their student ID. The app would track attendance and output a report upon request.',
+    date: 'Spring 2019',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['C#', 'Windows Forms', 'Windows Utilities'],
+    links: [
+        'https://github.com/Lazloian/SignIn']
+  },
+  {
+    title: 'STM32 Tutorial',
+    description: 'The robotics team I joined my freshman year of college used the STM32 microcontroller almost exclusively. I created a tutorial for setting up and using PWM on the STM32 using the STM32CubeIDE. The project gave me a better grasp of configuring the STM32 and gave others on my team a place to start.',
+    date: 'Summer 2020',
+    imageUrl: 'https://via.placeholder.com/300x200',
+    skills: ['STM32', 'Embedded C', 'Technical Writing'],
+    links: [
+        'https://github.com/Lazloian/STM32Tutorial/tree/master/PWMandServo']
+  },
 ]
 </script>
 
