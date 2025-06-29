@@ -8,10 +8,12 @@ import me from '../assets/images/me.jpg';
     <img :src="me" alt="Your photo" class="w-56 h-56 rounded-full object-cover shadow-lg" />
 
     <!-- Name and Bio -->
-    <div class="flex-1 flex flex-col justify-center h-56"> <!-- Set h-56 to match image height -->
-      <h1 class="text-4xl sm:text-5xl font-bold text-white mb-4">Henry Silva</h1>
-      <p class="text-lg text-white mb-6 max-w-xl">
-        This is my bio.
+    <div class="flex-1 flex flex-col justify-center h-56 text-white"> <!-- Set h-56 to match image height -->
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4">Henry Silva</h1>
+      <p class="text-lg mb-6 max-w-xl">
+        Welcome 👋.
+        <br>
+        To contact me, send an email to (my first name)@henrysilva.xyz.
       </p>
 
       <!-- Social Links -->
