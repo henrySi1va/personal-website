@@ -1,5 +1,20 @@
 [
   {
+    "title": "This Website",
+    "description": "I wanted to take my first steps into modern web development and give my personal website a redo since it had been a while since its last update. This website uses Vue and Tailwind CSS.",
+    "date": "Summer 2025",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "skills": [
+      "Vue",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "links": [
+      "https://henrysivla.xyz",
+      "https://github.com/henrySi1va/personal-website"
+    ]
+  },
+  {
     "title": "Custom LED Controller",
     "description": "I made an LED controller based on the ESP32 along with a companion Android app. The app supports a varity of patterns to customize. My favorites where soft color transitions and the rolling red, white, and blue just like on the news.",
     "date": "Summer 2020",
@@ -17,16 +32,17 @@
     ]
   },
   {
-    "title": "Robot Driver HUD and Ammo Detector",
-    "description": "I created a simple heads up display using a transparent LED screen for the Purdue Robomaster team. The screen showed warnings for low ammo and blind spot detection. I made a custom controller board and ammo detector that integrated into the robot\"s ammo hopper.",
-    "date": "Fall 2019",
+    "title": "STM32 Tutorial",
+    "description": "The robotics team I joined my freshman year of college used the STM32 microcontroller almost exclusively. I created a tutorial for setting up and using PWM on the STM32 using the STM32CubeIDE. The project gave me a better grasp of configuring the STM32 and gave others on my team a place to start.",
+    "date": "Summer 2020",
     "imageUrl": "https://via.placeholder.com/300x200",
     "skills": [
-      "PCB Design",
-      "Embedded C"
+      "STM32",
+      "Embedded C",
+      "Technical Writing"
     ],
     "links": [
-      "https://github.com/PurdueRM/Electrical-System/tree/master/Heads-Up-Display-ToF"
+      "https://github.com/Lazloian/STM32Tutorial/tree/master/PWMandServo"
     ]
   },
   {
@@ -41,6 +57,19 @@
     ],
     "links": [
       "https://github.com/Lazloian/henrysilva.xyz"
+    ]
+  },
+  {
+    "title": "Robot Driver HUD and Ammo Detector",
+    "description": "I created a simple heads up display using a transparent LED screen for the Purdue Robomaster team. The screen showed warnings for low ammo and blind spot detection. I made a custom controller board and ammo detector that integrated into the robot\"s ammo hopper.",
+    "date": "Fall 2019",
+    "imageUrl": "https://via.placeholder.com/300x200",
+    "skills": [
+      "PCB Design",
+      "Embedded C"
+    ],
+    "links": [
+      "https://github.com/PurdueRM/Electrical-System/tree/master/Heads-Up-Display-ToF"
     ]
   },
   {
@@ -73,21 +102,6 @@
     ],
     "links": [
       "https://github.com/Lazloian/DogWifi"
-    ]
-  },
-  {
-    "title": "This Website",
-    "description": "I wanted to take my first steps into modern web development and give my personal website a redo since it had been a while since its last update. This website uses Vue and Tailwind CSS.",
-    "date": "Summer 2025",
-    "imageUrl": "https://via.placeholder.com/300x200",
-    "skills": [
-      "Vue",
-      "Tailwind CSS",
-      "JavaScript"
-    ],
-    "links": [
-      "https://henrysivla.xyz",
-      "https://github.com/henrySi1va/personal-website"
     ]
   },
   {
@@ -130,20 +144,6 @@
     ],
     "links": [
       "https://github.com/Lazloian/SignIn"
-    ]
-  },
-  {
-    "title": "STM32 Tutorial",
-    "description": "The robotics team I joined my freshman year of college used the STM32 microcontroller almost exclusively. I created a tutorial for setting up and using PWM on the STM32 using the STM32CubeIDE. The project gave me a better grasp of configuring the STM32 and gave others on my team a place to start.",
-    "date": "Summer 2020",
-    "imageUrl": "https://via.placeholder.com/300x200",
-    "skills": [
-      "STM32",
-      "Embedded C",
-      "Technical Writing"
-    ],
-    "links": [
-      "https://github.com/Lazloian/STM32Tutorial/tree/master/PWMandServo"
     ]
   }
 ]
