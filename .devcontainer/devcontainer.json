@@ -10,7 +10,8 @@
       },
       "extensions": [
         "Vue.volar",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   }

@@ -11,9 +11,9 @@ import me from '../assets/images/me.jpg';
     <div class="flex-1 flex flex-col justify-center h-56 text-white"> <!-- Set h-56 to match image height -->
       <h1 class="text-4xl sm:text-5xl font-bold mb-4">Henry Silva</h1>
       <p class="text-lg mb-6 max-w-xl">
-        Hello! My name is Henry Silva.
+        Hello! Welcome to my website.
         <br>
-        This page has some of the things I have worked on.
+        You can see my experience and past projects.
         <br>
         I am Catholic and love to read, excercise, and learn new things.
         <br>

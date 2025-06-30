@@ -1,7 +1,7 @@
 [
   {
     "title": "This Website",
-    "description": "I wanted to take my first steps into modern web development and give my personal website a redo since it had been a while since its last update. This website uses Vue and Tailwind CSS.",
+    "description": "I wanted to take my first steps into modern web development and give my personal website a redo as it had been a while since its last update. This website uses Vue and Tailwind CSS (yes, these are overkill but I learned).",
     "date": "Summer 2025",
     "imageUrl": "https://henrysilva.xyz/assets/images/website2.png",
     "skills": [
@@ -16,7 +16,7 @@
   },
   {
     "title": "Custom LED Controller",
-    "description": "I made an LED controller based on the ESP32 along with a companion Android app. The app supports a varity of patterns to customize. My favorites where soft color transitions and rolling red, white, and blue for the 4th of July.",
+    "description": "I had always wanted cool LEDs in my room, but the controllers you can buy did not have enough customization. I made a controller based on the ESP32 along with a companion Android app. The app supports a variety of patterns to customize. My favorites where soft color transitions and rolling red, white, and blue for the 4th of July.",
     "date": "Summer 2020",
     "imageUrl": "https://henrysilva.xyz/assets/images/led.gif",
     "skills": [
@@ -33,7 +33,7 @@
   },
   {
     "title": "STM32 Tutorial",
-    "description": "The robotics team I joined my freshman year of college used the STM32 microcontroller almost exclusively. I created a tutorial for setting up and using PWM on the STM32 using the STM32CubeIDE. The project gave me a better grasp of configuring the STM32 and gave others on my team a place to start.",
+    "description": "The robotics team I joined my freshman year of college used the STM32 microcontroller almost exclusively. I created a tutorial for setting up and using PWM on the STM32 using the STM32CubeIDE. I got a better grasp of configuring the STM32 and it gave others on my team a place to start when beginning a new project.",
     "date": "Summer 2020",
     "imageUrl": "https://henrysilva.xyz/assets/images/tutorial.png",
     "skills": [
@@ -47,7 +47,7 @@
   },
   {
     "title": "Static Site Generator",
-    "description": "When making my first website as a teenager, I had the genius and original idea of translating markdown files into html so I could easily add content to the website (I never head of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site.",
+    "description": "When making my first website as an ignorant teenager, I had the genius and original idea of translating markdown files into html so I could easily add content to the website (I never head of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site. I was very proud of it until I found hugo a few years later.",
     "date": "Summer 2020",
     "imageUrl": "https://henrysilva.xyz/assets/images/website.png",
     "skills": [
@@ -61,7 +61,7 @@
   },
   {
     "title": "Robot Driver HUD and Ammo Detector",
-    "description": "I created a simple heads up display using a transparent LED screen for the Purdue Robomaster team. The screen showed warnings for low ammo and blind spot detection. I made a custom controller board and ammo detector that integrated into the robot\"s ammo hopper.",
+    "description": "I was on a robotics team that did not allow for customizing the driver's UI so we made a workaround by creating a custom HUD on a transparent LED screen. The HUD showed warnings for low ammo and blind spot detection using time of flight sensors. I made a custom controller board and ammo detector that integrated into the robot's ammo hopper.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/test.gif",
     "skills": [
@@ -74,7 +74,7 @@
   },
   {
     "title": "Dog Sleep Tracker",
-    "description": "I wanted to know how much my dog slept in a day. I used an ESP32 with an accelerometer to track movement and a raspberry pi running Node-RED and Grafana to visualize the data. A custom circuit board and 3D printed case made it possible to attach to my dog\"s collar.",
+    "description": "I wanted to know how much my dog slept in a day. I used an ESP32 with an accelerometer to track movement and a raspberry pi running Node-RED and Grafana to visualize the data. A custom circuit board and 3D printed case made it possible to attach to my dog's collar. It turned out to be a bit too heavy for her so I never got to learn how much she slept.",
     "date": "Summer 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/dogpcb.JPG",
     "skills": [
@@ -91,7 +91,7 @@
   },
   {
     "title": "Robotics Curriculum",
-    "description": "I made a 5-week robotics curriculum for junior high students to introduce them to the basics of robotics and programming using the Lego Mindstorms platform. The curriculum included slides for each lesson including small activities to teach concepts. 5 team-based competitions had teams apply lesson concepts to a game.",
+    "description": "My high school's summer robotics class desperately needed an upgrade. The class was targeted for boys in junior high so I made team based competition a core part of the curriculum. Each week started with interactive lessons and culminated in a tournament featuring a game which applied the skills learned that week. The class used the Lego Mindstorms platform. The entire course was documented so that the class could be handed off to a new teacher the following summer.",
     "date": "Summer 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/lego.png",
     "skills": [
@@ -101,12 +101,11 @@
       "Powerpoint"
     ],
     "links": [
-      "https://github.com/Lazloian/DogWifi"
     ]
   },
   {
     "title": "Simple Video Game: Project Isaac",
-    "description": "A binding of Isaac inspired rouge-like written in Java. I would only consider it a prototype, but it features randomly generated maps, several enemy types, and a couple boss fights.",
+    "description": "I got my start into programming making video games. This project is inspired by the hit game The Binding of Isaac. It features random map generation, a couple enemy types, and a boss fight. It is written in Java and can still be played today.",
     "date": "Spring 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/isaac.png",
     "skills": [
@@ -120,7 +119,7 @@
   },
   {
     "title": "Game Utility: Auto Background Changer",
-    "description": "Back in highschool, I was a fan of the rythm game osu!. The only problem was that I was certainly not a fan of the many anime-themed backgrounds used in the game. It was so bad that I made a utility to update the backgrounds with ones of my choosing.",
+    "description": "Back in highschool, I was a fan of the rhythm game osu!. However, I was very much not a fan of the anime themed backgrounds used by the songs in the game. I figured out how to change the backgrounds in the game files, but I changed them so frequently that I made a tool to do it for me.",
     "date": "Spring 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/osu_cancel.png",
     "skills": [
@@ -134,7 +133,7 @@
   },
   {
     "title": "Team Sign-In App",
-    "description": "My high school robotics team needed to track student attendance to determine if members met the requirements to go with the team for competitions. I made a simple windows form that allowed students to sign in using their student ID. The app would track attendance and output a report upon request.",
+    "description": "My high school robotics team needed to track student attendance to determine if members met the requirements to go with the team for competitions. I made a simple Windows form that allowed students to sign in using their student ID. The app would track attendance and output a report upon request. It kind of worked, but it ran into some bugs and the coach decided to use pen and paper.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/sign-in.png",
     "skills": [
@@ -147,8 +146,8 @@
     ]
   },
   {
-    "title": "Economics Game",
-    "description": "My AP Macroeconomics class had an open-ended final project and I decided to make a video game. You play as a firm making widgets in a competitive market. You must manage the output of your factories, hire labor, and adjust the price of your widgets. You may also use various illegal business practices to get an edge over your competitors. The game was played in class and I got a good grade (although not as high as the econ rap vidoes).",
+    "title": "Economics Game: Widgets",
+    "description": "My AP Macroeconomics class had an open-ended final project and I decided to make a video game. You play as a firm making widgets in a competitive market. You must manage the output of your factories, hire labor, and adjust the price of your widgets. You may also use various illegal business practices to get an edge over your competition. The game was played in class and I got a good grade.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/econ.png",
     "skills": [
