@@ -10,10 +10,13 @@ defineProps(
 
 <template>
 <div class="flex flex-col md:flex-row items-center gap-6">
-    <div>
+  <!-- Image on the left -->
+  <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-md shadow-md" />
+
+  <!-- Content on the right -->
+  <div class="flex-1">
     <h3 class="text-2xl font-bold text-white mb-2">{{ project.title }}</h3>
     <div class="text-md text-neutral-400 mb-2">{{ project.date }}</div>
-<!--    <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-lg shadow-md" /> -->
     <p class="text-white">{{ project.description }}</p>
     <div v-if="project.skills" class="text-neutral-400 italic gap-3 mt-2">
       Skills: 
@@ -44,6 +47,6 @@ defineProps(
         </span>
       </a>
     </div>
-    </div>
+  </div>
 </div>
 </template>
