@@ -47,7 +47,7 @@
   },
   {
     "title": "Static Site Generator",
-    "description": "When making my first website as an ignorant teenager, I had the genius and original idea of translating markdown files into html so I could easily add content to the website (I never head of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site. I was very proud of it until I found hugo a few years later.",
+    "description": "When making my first website as an ignorant teenager, I had the genius and original idea of translating markdown files into html so I could easily add content to the website (I had never heard of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site. I was very proud of it until I found hugo a few years later.",
     "date": "Summer 2020",
     "imageUrl": "https://henrysilva.xyz/assets/images/website.png",
     "skills": [
@@ -61,7 +61,7 @@
   },
   {
     "title": "Robot Driver HUD and Ammo Detector",
-    "description": "I was on a robotics team that did not allow for customizing the driver's UI so we made a workaround by creating a custom HUD on a transparent LED screen. The HUD showed warnings for low ammo and blind spot detection using time of flight sensors. I made a custom controller board and ammo detector that integrated into the robot's ammo hopper.",
+    "description": "I was on a robotics team that did not allow customization of the driver's UI on the computer so we made a workaround by creating a custom HUD on a transparent LED screen in front of the robot's camera. The HUD showed warnings for low ammo and blind spot detection using time of flight sensors. I made a custom controller board and ammo detector that integrated into the robot's ammo hopper.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/test.gif",
     "skills": [
@@ -105,7 +105,7 @@
   },
   {
     "title": "Simple Video Game: Project Isaac",
-    "description": "I got my start into programming making video games. This project is inspired by the hit game The Binding of Isaac. It features random map generation, a couple enemy types, and a boss fight. It is written in Java and can still be played today.",
+    "description": "I got my start into programming making video games when I was in 5th grade, but those early projects have been lost to time (probably for the better). This project is inspired by the hit game The Binding of Isaac. It features random map generation, a couple enemy types, and a boss fight. It is written in Java. For some reason, I saved the executable in the repo, so I got it running recently and it still works!",
     "date": "Spring 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/isaac.png",
     "skills": [
