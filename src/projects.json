@@ -1,5 +1,21 @@
 [
   {
+    "title": "Renovation Viewer",
+    "description": "My family is renovating my grandparent's house, but we could not put our vision on paper. So, I took it as an opporutnity to learn more about web development and get familiar with another CAD tool, Onshape. The web viewer shows the current house and the renovated version with all changes including furniture, appliances, landscaping, architecture, and utilities. Follow the link below to see for yourself!",
+    "date": "Summer 2025 (In Progress)",
+    "imageUrl": "https://henrysilva.xyz/assets/images/renovation.png",
+    "skills": [
+      "CAD (Onshape)",
+      "Vue",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "links": [
+      "https://dixonhouse.xyz",
+      "https://github.com/henrySi1va/dixon-house"
+    ]
+  },
+  {
     "title": "This Website",
     "description": "I wanted to take my first steps into modern web development and give my personal website a redo as it had been a while since its last update. This website uses Vue and Tailwind CSS (yes, these are overkill but I learned).",
     "date": "Summer 2025",

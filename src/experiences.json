@@ -2,7 +2,7 @@
   {
     "title": "Co-Founder & Director of Product Development",
     "company": "Wavelogix",
-    "duration": "January 2023 - May 2025",
+    "duration": "January 2023 - June 2025",
     "description": [
       "Lead multi-disciplinary engineering and research team to completely overhaul our innovative concrete sensor to be market ready in 18 months.",
       "Built product team from the ground up spanning embedded firmware, hardware design, machine learning, and full-stack development.",
@@ -26,6 +26,19 @@
     "links": [
       "https://wavelogix.tech",
       "https://www.linkedin.com/company/wavelogix-inc"
+    ]
+  },
+  {
+    "title": "Undergraduate Research Assistant",
+    "company": "Joe & Lisa Shetterley Innovation Lab - Purdue Lyles School of Civil Engineering",
+    "duration": "October 2020 - August 2021",
+    "description": [
+      "Built a low cost, battery powered datalogger to replace an expensive benchtop instrument to enable testing an innovative concrete sensor in the field.",
+      "Implemented an impedance analyzer chip in a novel application using electrical engineering principles and conducted testing to ensure accuracy.",
+      "Prepared and executed field trials on construction sites to collect required data in a time-limited and dynamic environment."
+    ],
+    "links": [
+      "https://engineering.purdue.edu/SMARTLab"
     ]
   }
 ]
