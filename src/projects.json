@@ -1,7 +1,7 @@
 [
   {
     "title": "Renovation Viewer",
-    "description": "My family is renovating my grandparent's house, but we could not put our vision on paper. So, I took it as an opporutnity to learn more about web development and get familiar with another CAD tool, Onshape. The web viewer shows the current house and the renovated version with all changes including furniture, appliances, landscaping, architecture, and utilities. Follow the link below to see for yourself!",
+    "description": "My family is renovating my grandparent's house, but we could not put our vision on paper. So, I took it as an opportunity to learn more about web development and get familiar with another CAD tool, Onshape. The web viewer shows the current house and the renovated version with all changes including furniture, appliances, landscaping, architecture, and utilities. Follow the link below to see for yourself!",
     "date": "Summer 2025 (In Progress)",
     "imageUrl": "https://henrysilva.xyz/assets/images/renovation.png",
     "skills": [
@@ -17,7 +17,7 @@
   },
   {
     "title": "This Website",
-    "description": "I wanted to take my first steps into modern web development and give my personal website a redo as it had been a while since its last update. This website uses Vue and Tailwind CSS (yes, these are overkill but I learned).",
+    "description": "I wanted to take my first steps into modern web development and give my personal website a redo as it had been a while since its last update. This website uses Vue and Tailwind CSS.",
     "date": "Summer 2025",
     "imageUrl": "https://henrysilva.xyz/assets/images/website2.png",
     "skills": [
@@ -63,7 +63,7 @@
   },
   {
     "title": "Static Site Generator",
-    "description": "When making my first website as an ignorant teenager, I had the genius and original idea of translating markdown files into html so I could easily add content to the website (I had never heard of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site. I was very proud of it until I found hugo a few years later.",
+    "description": "When making my first website, I had the idea of translating markdown files into html so I could easily add content to the website (I had never heard of a static site generator before). The tool can upload content to the server, list/remove posts, and update the site. I was very proud of it until I found hugo a few years later.",
     "date": "Summer 2020",
     "imageUrl": "https://henrysilva.xyz/assets/images/website.png",
     "skills": [
@@ -77,7 +77,7 @@
   },
   {
     "title": "Robot Driver HUD and Ammo Detector",
-    "description": "I was on a robotics team that did not allow customization of the driver's UI on the computer so we made a workaround by creating a custom HUD on a transparent LED screen in front of the robot's camera. The HUD showed warnings for low ammo and blind spot detection using time of flight sensors. I made a custom controller board and ammo detector that integrated into the robot's ammo hopper.",
+    "description": "I was on a robotics team that did not allow customization of the driver's UI on the computer. Instead, we made a workaround by creating a custom HUD on a transparent LED screen in front of the robot's camera. The HUD showed warnings for low ammo and blind spot detection using time of flight sensors. I made a custom controller board and ammo detector that integrated into the robot's ammo hopper.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/test.gif",
     "skills": [
@@ -121,7 +121,7 @@
   },
   {
     "title": "Simple Video Game: Project Isaac",
-    "description": "I got my start into programming making video games when I was in 5th grade, but those early projects have been lost to time (probably for the better). This project is inspired by the hit game The Binding of Isaac. It features random map generation, a couple enemy types, and a boss fight. It is written in Java. For some reason, I saved the executable in the repo, so I got it running recently and it still works!",
+    "description": "I got my start into programming making video games when I was in 5th grade, but those early projects have been lost to time (probably for the better). This project is inspired by the game The Binding of Isaac. It features random map generation, a couple enemy types, and a boss fight. It is written in Java.",
     "date": "Spring 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/isaac.png",
     "skills": [
@@ -149,7 +149,7 @@
   },
   {
     "title": "Team Sign-In App",
-    "description": "My high school robotics team needed to track student attendance to determine if members met the requirements to go with the team for competitions. I made a simple Windows form that allowed students to sign in using their student ID. The app would track attendance and output a report upon request. It kind of worked, but it ran into some bugs and the coach decided to use pen and paper.",
+    "description": "My high school robotics team needed to track student attendance to determine if members met the requirements to go with the team for competitions. I made a simple Windows form that allowed students to sign in using their student ID. The app would track attendance and output a report upon request.",
     "date": "Fall 2019",
     "imageUrl": "https://henrysilva.xyz/assets/images/sign-in.png",
     "skills": [
