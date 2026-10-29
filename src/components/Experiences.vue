@@ -8,7 +8,7 @@ const experiences = ref(experienceData);
 </script>
 
 <template>
-<section class="max-w-6xl mx-auto py-8 space-y-12">
+<section id="experience" class="max-w-6xl mx-auto py-8 space-y-12">
     <h2 class="text-3xl font-semibold text-white mb-6">Work Experience</h2>
     <Experience v-for="experience in experiences" :key="experience.title" :experience="experience" />
 </section>
