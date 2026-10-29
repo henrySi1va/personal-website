@@ -11,7 +11,7 @@ defineProps(
 <template>
 <div class="flex flex-col md:flex-row items-center gap-6">
   <!-- Image on the left -->
-  <img :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-md shadow-md" />
+  <img v-if="project.imageUrl" :src="project.imageUrl" :alt="project.title" class="w-full md:w-64 rounded-md shadow-md" />
 
   <!-- Content on the right -->
   <div class="flex-1">

@@ -1,5 +1,20 @@
 [
   {
+    "title": "New Product Consultant",
+    "company": "Slingshot Product Development Group",
+    "duration": "September 2025 - Present",
+    "description": [
+      "Took over firmware on a behind-schedule medical IoT device and resolved RTOS issues to get it back on track for release.",
+      "Redesigned critical circuit boards for manufacturability and performance, from schematic through assembly drawings.",
+      "Built a high-voltage piezo transducer test system for repeatable R&D measurement and automated production QC.",
+      "Set up the firm's first version-controlled code infrastructure and standardized the team on Altium Designer.",
+      "Evaluated potential clients through patent research and discovery calls; interviewed embedded engineer candidates."
+    ],
+    "links": [
+      "https://www.slingshotpdg.com/"
+    ]
+  },
+  {
     "title": "Co-Founder & Director of Product Development",
     "company": "Wavelogix",
     "duration": "January 2023 - June 2025",

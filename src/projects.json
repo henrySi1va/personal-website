@@ -1,5 +1,19 @@
 [
   {
+    "title": "Agentic Bluetooth Doorbell",
+    "description": "LLM coding agents are great at web apps, but I wanted to see how far they could go on embedded work where the code has to run on real hardware. I built a Bluetooth doorbell with an agent doing the development: writing the firmware, flashing the board, and testing it on the device. My role was setting up the hardware, defining the goals, and reviewing the work.",
+    "date": "Fall 2026",
+    "skills": [
+      "Arduino",
+      "C++",
+      "Bluetooth Low Energy",
+      "LLM Agents",
+      "Hardware Testing"
+    ],
+    "links": [
+    ]
+  },
+  {
     "title": "Renovation Viewer",
     "description": "My family is renovating my grandparent's house, but we could not put our vision on paper. So, I took it as an opportunity to learn more about web development and get familiar with another CAD tool, Onshape. The web viewer shows the current house and the renovated version with all changes including furniture, appliances, landscaping, architecture, and utilities. Follow the link below to see for yourself!",
     "date": "Summer 2025 (In Progress)",
